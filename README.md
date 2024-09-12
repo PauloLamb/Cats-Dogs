@@ -1,9 +1,9 @@
 # Cats & Dogs
-Classificador de imagens de cães e gatos através de rede neural convolucional.
+Classificador de imagens de cães e gatos através de rede neural convolucional.<br>
 Aplicação com Tensorflow.
-
+<br>
 Instruções:
-
+<br>
 1) arquivo Criando a rede Cats & Dogs - v4.ipynb
 responsável por gerar a rede neural e salvar os dados dos "pesos" da rede nos arquivos dogscats_v4.h5 e dogscats_v4.json
 

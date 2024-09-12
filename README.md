@@ -1,5 +1,5 @@
 # Cats & Dogs
-Classificador de imagens de cães e gatos através de rede neural convolucional.<br><br>
+Classificador de imagens de cães e gatos através de rede neural convolucional.<br>
 Aplicação com Tensorflow.
 <br>
 Instruções:

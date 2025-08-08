@@ -11,7 +11,8 @@ responsável por gerar a rede neural e salvar os dados dos "pesos" da rede nos a
 aplicação feita para rodar a rede com os pesos já salvos lendo a partir dos arquivos dogscats_v5.h5 e dogscats_v5.json
 
 3) arquivos dogscats_v5.h5 e dogscats_v5.json<br>
-são os arquivos gerados pela primeira aplicação responsável por salvar todo o processamento da rede.
+são os arquivos gerados pela primeira aplicação responsável por salvar todo o processamento da rede.<br>
+o arquivo .h5 precisou ser compactado devido ao tamanho >25MB
 
 4) Pasta Base de Dados<br>
 Aqui vocês deve salvar os arquivos obtidos através do link do kaggle que já estão subdivididos em treino e teste. Mantenham a estrutura original.<br>

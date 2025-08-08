@@ -13,6 +13,6 @@ aplicação feita para rodar a rede com os pesos já salvos lendo a partir dos a
 3) arquivos dogscats_v4.h5 e dogscats_v4.json
 são os arquivos gerados pela primeira aplicação responsável por salvar todo o processamento da rede.
 
-4) Pasta Base de Dados
-Aqui vocês deve salvar os arquivos obtidos através do link do kaggle que já estão subdivididos em treino e teste. Mantenha a estrutura original.<br>
+4) Pasta Base de Dados<br>
+Aqui vocês deve salvar os arquivos obtidos através do link do kaggle que já estão subdivididos em treino e teste. Mantenham a estrutura original.<br>
 https://www.kaggle.com/c/dogs-vs-cats
